@@ -4,8 +4,6 @@ This application requires Java 21+.
 
 <h1>Usage</h1>
 
-Note: When running the application, there will be a warning saying "Unsupported JavaFX configuration", however it doesn't actually affect anything.
-
 To run the application, use the following command:
 ```
 java -jar Minesweeper.jar
